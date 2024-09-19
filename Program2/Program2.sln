@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Program2", "Program2.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 1th(GetAsyncKeyState)", "..\Class 1th(GetAsignc\Class 1th(GetAsignc.vcxproj", "{34253AA6-B82A-408C-BA1D-C7772E91AC26}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 2th(double Buffering)", "..\Class 2th()\Class 2th().vcxproj", "{A6071CBA-08DB-47ED-B078-0AA5FE7752A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{34253AA6-B82A-408C-BA1D-C7772E91AC26}.Release|x64.Build.0 = Release|x64
 		{34253AA6-B82A-408C-BA1D-C7772E91AC26}.Release|x86.ActiveCfg = Release|Win32
 		{34253AA6-B82A-408C-BA1D-C7772E91AC26}.Release|x86.Build.0 = Release|Win32
+		{A6071CBA-08DB-47ED-B078-0AA5FE7752A1}.Debug|x64.ActiveCfg = Debug|x64
+		{A6071CBA-08DB-47ED-B078-0AA5FE7752A1}.Debug|x64.Build.0 = Debug|x64
+		{A6071CBA-08DB-47ED-B078-0AA5FE7752A1}.Debug|x86.ActiveCfg = Debug|Win32
+		{A6071CBA-08DB-47ED-B078-0AA5FE7752A1}.Debug|x86.Build.0 = Debug|Win32
+		{A6071CBA-08DB-47ED-B078-0AA5FE7752A1}.Release|x64.ActiveCfg = Release|x64
+		{A6071CBA-08DB-47ED-B078-0AA5FE7752A1}.Release|x64.Build.0 = Release|x64
+		{A6071CBA-08DB-47ED-B078-0AA5FE7752A1}.Release|x86.ActiveCfg = Release|Win32
+		{A6071CBA-08DB-47ED-B078-0AA5FE7752A1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
