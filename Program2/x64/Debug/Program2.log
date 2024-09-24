@@ -1,4 +1,2 @@
 ﻿  soruce.c
-C:\Users\조민기\Desktop\git\TextGame\Program2\soruce.c(24,14): warning C4101: 'pastY' :참조되지 않은 지역 변수입니다.
-C:\Users\조민기\Desktop\git\TextGame\Program2\soruce.c(24,7): warning C4101: 'pastX' :참조되지 않은 지역 변수입니다.
   Program2.vcxproj -> C:\Users\조민기\Desktop\git\TextGame\Program2\x64\Debug\Program2.exe

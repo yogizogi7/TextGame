@@ -1,0 +1,4 @@
+Character Information
+HP : 500
+MANA : 130
+Attack : 82
